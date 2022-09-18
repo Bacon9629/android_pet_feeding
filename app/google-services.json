@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "427391186595",
+    "firebase_url": "https://foodproject-5e48d-default-rtdb.firebaseio.com",
+    "project_id": "foodproject-5e48d",
+    "storage_bucket": "foodproject-5e48d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427391186595:android:3950f23b880824989ab116",
+        "android_client_info": {
+          "package_name": "flag.com.ch6_energycalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427391186595-a7lbu13354lado37c85q46ss5babroah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Yyy-LJQFxR8XI-TR9CYhSvXhOzhTlTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427391186595-a7lbu13354lado37c85q46ss5babroah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

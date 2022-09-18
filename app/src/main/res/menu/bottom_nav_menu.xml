@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_family"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_family" />
+
+    <item
+        android:id="@+id/navigation_machine"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_machine" />
+
+</menu>

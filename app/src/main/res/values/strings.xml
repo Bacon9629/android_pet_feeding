@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">寵物餵食機</string>
+    <string name="title_family">Family</string>
+    <string name="title_machine">Machine</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="cat_stage">
+
+        <item>運動量少的(室內)</item>
+        <item>運動量較多的(中高等活動量)</item>
+        <item>需要減/增肥的</item>
+        <item>輕度工作犬</item>
+        <item>中度工作犬</item>
+        <item>重度工作犬</item>
+        <item>4個月以下幼犬</item>
+        <item>4個月~ 一年幼犬</item>
+        <item>懷孕前期</item>
+        <item>懷孕後期</item>
+
+    </string-array>
+
+    <string-array name="dog_stage">
+
+        <item>運動量少的成貓</item>
+        <item>運動量一般的成貓</item>
+        <item>運動量較多的成貓</item>
+        <item>需要減肥的</item>
+        <item>幼貓</item>
+        <item>高齡貓咪</item>
+        <item>懷孕期</item>
+        <item>哺乳期</item>
+        <item>運動量少的成貓</item>
+        <item>運動量一般的成貓</item>
+
+    </string-array>
+</resources>
